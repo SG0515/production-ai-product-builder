@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production AI Product Builder"
+  short_description: "Build maintainable, production-grade AI products"
+  default_prompt: "Use $production-ai-product-builder to turn this product brief into a production-ready implementation plan and repository."
